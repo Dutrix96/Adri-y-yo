@@ -12,3 +12,10 @@ fun main() {
 
 
 }
+
+fun cuadrado(Int):Int{
+    var lado= 4
+    var area = lado * 4
+    println("${area}")
+}
+}
