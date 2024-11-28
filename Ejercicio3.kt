@@ -11,10 +11,12 @@ fun main() {
 
 
 
+
 }
 fun conflicto(){
     var altura=3
     var base=7
     var areaT=(base*altura)/2
     println("esto es un conflicto")
+
 }
